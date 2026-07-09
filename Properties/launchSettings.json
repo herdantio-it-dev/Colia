@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Colia": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
